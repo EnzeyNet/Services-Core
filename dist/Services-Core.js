@@ -1,4 +1,4 @@
-if (!EnzeyNet) {var EnzeyNet = {};}
+if (!window.EnzeyNet) {window.EnzeyNet = {};}
 if (!EnzeyNet.Services) {EnzeyNet.Services = {};}
 
 EnzeyNet.Services.Eventing = {};
